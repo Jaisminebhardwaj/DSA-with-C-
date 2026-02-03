@@ -1,0 +1,18 @@
+# Ignore compiled binaries and build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.class
+*.exe~
+# Visual Studio Code settings
+.vscode/
+# Build directories
+/build/
+/bin/
+/obj/
+# OS files
+Thumbs.db
+Desktop.ini
+*.log
